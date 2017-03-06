@@ -1,0 +1,26 @@
+{
+	"short_name": "PWA Test",
+	"name": "My First PWA Test",
+	"icons": [
+		{
+			"src": "icon.png",
+			"type": "image/png",
+			"sizes": "48x48"
+		},
+		{
+			"src": "icon.png",
+			"type": "image/png",
+			"sizes": "96x96"
+		},
+		{
+			"src": "icon.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		}
+	],
+	"start_url": "index.html?launcher=true",
+	"display": "fullscreen",
+	"background_color": "#2196F3",
+	"theme_color": "#2196F3",
+	"orientation": "portrait"
+}
